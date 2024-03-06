@@ -26,7 +26,7 @@ This archive contains 2075259 measurements gathered in a house located in Sceaux
 ## Directory Structure
 PersonalizedDRRecommendations/
 
-- utils/ # Utility scripts
+|- utils/ # Utility scripts
 
   |- model.py # Model implementation
   
@@ -36,10 +36,16 @@ PersonalizedDRRecommendations/
   
   |- utils_plot.py # Data visualization functions
 
--  README.md # Project documentation
--  config.py # Configuration settings and parameters
--  eda_preprocessing.py # Script for data loading, preprocessing and EDA
--  model_hyperparam_tuning.py # Hyperparameter tuning for models
--  prediction.py # Predictive modeling and analysis
--  recommender_initiator.py # Initiates the recommendation process
--  recommender_query.py # Handles queries for recommendations
+|- README.md # Project documentation
+
+|- config.py # Configuration settings and parameters
+
+|- eda_preprocessing.py # Script for data loading, preprocessing and EDA
+
+|- model_hyperparam_tuning.py # Hyperparameter tuning for models
+
+|- prediction.py # Predictive modeling and analysis
+
+|- recommender_initiator.py # Initiates the recommendation process
+
+|- recommender_query.py # Handles queries for recommendations
