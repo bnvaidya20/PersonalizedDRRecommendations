@@ -8,7 +8,7 @@ Use Case: ML algorithms can analyze individual energy consumption patterns to pr
 Benefits: Tailored recommendations can improve participant engagement by showing them the most effective ways to reduce their energy usage, based on their habits and the devices they use.
 
 ## Features
-- Data preprocessing and exploratory data analysis (EDA)
+- Data loading, preprocessing and exploratory data analysis (EDA)
 - Hyperparameter tuning for model optimization
 - Implementation of predictive models
 - Implementation of DR recommendations
