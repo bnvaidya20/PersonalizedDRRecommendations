@@ -39,7 +39,7 @@ PersonalizedDRRecommendations/
 
 - config.py # Configuration settings and parameters
 - eda_preprocessing.py # Script for data loading, preprocessing and EDA
-- model_hyperparam_tuning.py # Hyperparameter tuning for models
 - prediction.py # Predictive modeling and analysis
+- model_hyperparam_tuning.py # Model Hyperparameter tuning
 - recommender_initiator.py # Initiates the recommendation process
 - recommender_query.py # Handles queries for recommendations
