@@ -25,7 +25,7 @@ It contains 2075259 measurements gathered in a house located in Sceaux (7 km fro
 ## Directory Structure
 PersonalizedDRRecommendations/
 
-- utils/ # Utility scripts
+_ utils/ # Utility scripts
 
   |- model.py # Model implementation
   
