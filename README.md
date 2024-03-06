@@ -14,7 +14,7 @@ Benefits: Tailored recommendations can improve participant engagement by showing
 - Implementation of DR recommendations
 - Visualization tools for data and recommendation insights
 
-# Dataset
+## Dataset
 This study uses measurements of electric power consumption in one household with a one-minute sampling rate over almost 4 years. Different electrical quantities and some sub-metering values are available. 
 
 The dataset can be found at this UCI Machine Learning Repository link:
