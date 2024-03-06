@@ -1,7 +1,7 @@
 # Implementation of Personalized Demand Response (DR) Recommendation System
 
 ## Project Overview
-This project aims to develop a Personalized Demand Response (DR) Recommendation System. The system leverages various data analysis and machine learning techniques to provide customized DR strategies for energy consumption optimization.
+This project implements a Personalized Demand Response (DR) Recommendation System aimed at optimizing energy consumption and enhancing user engagement with demand response programs. The system leverages advanced machine learning models and data analytics to provide tailored DR recommendations to individual households or entities.
 
 Use Case: ML algorithms can analyze individual energy consumption patterns to provide personalized recommendations for energy reduction during DR events.
 
