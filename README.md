@@ -12,7 +12,7 @@ Benefits: Tailored recommendations can improve participant engagement by showing
 - Hyperparameter tuning for model optimization
 - Implementation of predictive models
 - Implementation of DR recommendations
-- Visualization tools for data and recommendation insights
+- Visualization tools for data and prediction insights
 
 ## Dataset
 This study uses a dataset that can be found at the following UCI ML repository link:
