@@ -25,7 +25,6 @@ It contains 2075259 measurements gathered in a house located in Sceaux (7 km fro
 ## Directory Structure
 PersonalizedDRRecommendations/
 
-- README.md # Project documentation
 - utils/ # Utility scripts
 
   |- model.py # Model implementation
@@ -42,3 +41,5 @@ PersonalizedDRRecommendations/
 - model_hyperparam_tuning.py # Model Hyperparameter tuning
 - recommender_initiator.py # Initiates the recommendation process
 - recommender_query.py # Handles queries for recommendations
+- README.md # Project documentation
+
