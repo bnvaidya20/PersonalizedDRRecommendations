@@ -15,7 +15,7 @@ Benefits: Tailored recommendations can improve participant engagement by showing
 - Visualization tools for data and recommendation insights
 
 ## Dataset
-This study uses a dataset can be found at the following UCI Machine Learning Repository link:
+This study uses a dataset that can be found at the following UCI ML repository link:
 
 [Individual household electric power consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
