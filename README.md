@@ -19,8 +19,8 @@ This study uses measurements of electric power consumption in one household with
 
 The dataset can be found at this UCI Machine Learning Repository link:
 
-Individual household electric power consumption
-https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption.
+[Individual household electric power consumption]
+(https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
 This archive contains 2075259 measurements gathered in a house located in Sceaux (7 km from Paris, France) between December 2006 and November 2010 (47 months).
 
