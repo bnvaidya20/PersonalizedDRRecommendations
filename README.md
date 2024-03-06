@@ -27,9 +27,13 @@ This archive contains 2075259 measurements gathered in a house located in Sceaux
 PersonalizedDRRecommendations/
 
 - utils/ # Utility scripts
+
   |- model.py # Model implementation
+  
   |- recommender_scheme.py # Recommendation scheme logic
+  
   |- utils.py # General utility functions
+  
   |- utils_plot.py # Data visualization functions
 
 -  README.md # Project documentation
